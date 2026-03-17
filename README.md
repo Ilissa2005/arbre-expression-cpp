@@ -118,6 +118,6 @@ Il répond à un cahier des charges incluant la manipulation d’expressions, le
 ## Auteur
 
 **Ilissa**
-Étudiant(e) en informatique
+Étudiante en informatique
 
 ---
