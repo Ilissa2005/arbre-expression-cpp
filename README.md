@@ -12,12 +12,12 @@ L’objectif est de modéliser une expression mathématique, de l’évaluer et 
 
 ## Fonctionnalités
 
-* 🔹 Lecture d’une expression arithmétique (ex : `(X+Y)*Z`)
-* 🔹 Construction d’un **arbre binaire d’expression**
-* 🔹 Affichage de l’expression (forme infixée)
-* 🔹 Évaluation avec des variables (`X`, `Y`, `Z`)
-* 🔹 Dérivation symbolique
-* 🔹 Gestion des opérateurs : `+`, `-`, `*`, `/`, `^`
+*  Lecture d’une expression arithmétique (ex : `(X+Y)*Z`)
+*  Construction d’un **arbre binaire d’expression**
+*  Affichage de l’expression (forme infixée)
+*  Évaluation avec des variables (`X`, `Y`, `Z`)
+*  Dérivation symbolique
+*  Gestion des opérateurs : `+`, `-`, `*`, `/`, `^`
 
 ---
 
@@ -105,13 +105,13 @@ Il répond à un cahier des charges incluant la manipulation d’expressions, le
 
 ## But du projet
 
-Comprendre et manipuler les arbres binaires pour représenter des expressions mathématiques
+* Comprendre et manipuler les arbres binaires pour représenter des expressions mathématiques
 
-Apprendre à analyser et évaluer des expressions en programmation
+* Apprendre à analyser et évaluer des expressions en programmation
 
-Mettre en pratique la dérivation symbolique en C++
+* Mettre en pratique la dérivation symbolique en C++
 
-Renforcer les compétences en structures de données et en programmation orientée objet
+* Renforcer les compétences en structures de données et en programmation orientée objet
 
 ---
 
