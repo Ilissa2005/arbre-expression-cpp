@@ -76,11 +76,11 @@ Z = 0
 
 ## Concepts abordés
 
-* 🌳 Arbres binaires
-* 📚 Structures de données (pile implémentée manuellement)
-* 🔍 Parsing d’expressions
-* ➗ Dérivation symbolique
-* 🧩 Programmation orientée objet en C++
+* Arbres binaires
+* Structures de données (pile implémentée manuellement)
+* Parsing d’expressions
+* Dérivation symbolique
+* Programmation orientée objet en C++
 
 ---
 
