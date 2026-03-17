@@ -103,11 +103,15 @@ Il répond à un cahier des charges incluant la manipulation d’expressions, le
 
 ---
 
-## Améliorations possibles
+## But du projet
 
-* Simplification automatique des expressions
-* Ajout de fonctions mathématiques (sin, cos, log...)
-* Interface utilisateur plus avancée
+Comprendre et manipuler les arbres binaires pour représenter des expressions mathématiques
+
+Apprendre à analyser et évaluer des expressions en programmation
+
+Mettre en pratique la dérivation symbolique en C++
+
+Renforcer les compétences en structures de données et en programmation orientée objet
 
 ---
 
